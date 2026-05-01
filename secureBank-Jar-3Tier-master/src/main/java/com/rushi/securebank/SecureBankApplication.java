@@ -25,7 +25,7 @@ public class SecureBankApplication {
 
         System.out.println();
         System.out.println("============================================================");
-        System.out.println("   SecureBank (JAR)  -  Banking by Rushi                   ");
+        System.out.println("   SecureBank (JAR)  -  practing by nandhu                   ");
         System.out.println("------------------------------------------------------------");
         System.out.println("   Standalone Spring Boot application with embedded Tomcat ");
         System.out.println("   Open in browser: http://localhost:8080                  ");
